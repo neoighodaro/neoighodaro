@@ -5,15 +5,13 @@
 <br />
 
 
-<p align="center">
+<p>
   <h4 align="center">Connect with me</h4>
   
   <p align="center">
-    <a href="https://neoi.sh" title="Website"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="20px" /></a>
+    <a href="https://neoi.sh" title="Website"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="20px" /></a>&nbsp;
+    <a href="https://neoi.sh" title="Twitter"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="20px" /></a>&nbsp;  
   </p>
-
-  [<img align="center" alt="neoi.sh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-  [<img align="center" alt="neoi.sh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 </p>
 
 
