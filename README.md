@@ -14,4 +14,5 @@
 
 
 
-<a href="https://neoi.sh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=neoighodaro&hide=contribs&count_private=true&show_icons=true&theme=dracula&hide_border=true&card_width=330" alt="Neo's stats" /></a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoighodaro&layout=compact&count_private=true&theme=dracula&hide_border=true" />
+| <a href="https://neoi.sh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=neoighodaro&hide=contribs&count_private=true&show_icons=true&theme=dracula&hide_border=true&card_width=330" alt="Neo's stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoighodaro&layout=compact&count_private=true&theme=dracula&hide_border=true" /> |
+| ------------- | ------------- |
