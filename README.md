@@ -1,4 +1,8 @@
-![image](https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif)
+<p align="center">
+  <img src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" />
+</p>
+
+<br />
 
 #### Connect with me:
 
@@ -6,6 +10,7 @@
 [<img align="left" alt="neoi.sh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
+
 
 #### Languages and Tools:
 
@@ -21,6 +26,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code>
 
 <br />
+
 
 #### Stats:
 
