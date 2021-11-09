@@ -9,7 +9,7 @@
   <h4 align="center">Connect with me</h4>
   
   <p align="center">
-    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="20px" />
+    <a href="https://neoi.sh" title="Website"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="20px" /></a>
   </p>
 
   [<img align="center" alt="neoi.sh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
